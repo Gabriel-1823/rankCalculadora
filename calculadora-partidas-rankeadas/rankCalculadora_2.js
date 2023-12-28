@@ -1,6 +1,6 @@
 console.log('Por favor, insira número de derrotas e vitórias: \n')
-let playerVitorias = 178
-let player_derrotas = 57
+let playerVitorias = 181
+let player_derrotas = 127
 
 statusPlayer = {
     nomePlayer: 'João dos Repolhos',
